@@ -5,7 +5,7 @@ tag: codewars
 ---
 
 
-## String repeat
+## Thinking of different solutions to String repeat challenge.
 
 I was doing some CodeWars challanges and this looked interesting:
 
@@ -22,9 +22,10 @@ Some of the solutions:
   ```java
   s += string
   ```
-- String methods
+- String methods (java 11)
   ```java
   string.repeat(repeat);
   ```
+
 
 which is the best?
